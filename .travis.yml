@@ -13,6 +13,6 @@ cache:
 deploy:
  provider: heroku
  api_key:
- secure: 53f2b654-13a5-440d-874e-c2892aae4ccc
+  secure: 53f2b654-13a5-440d-874e-c2892aae4ccc
  app: tut-6
  skip_cleanup: true
